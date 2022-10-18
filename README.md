@@ -1,5 +1,3 @@
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xk12w6qr6edc7x17d04twa21l&cover_image=true&theme=default" /></div>  
-
 <div align="center">
 <img width="160" height="30" src="https://komarev.com/ghpvc/?username=Hakkerikakkeri&style=for-the-badge&color=3079ff" alt="Hakkerikakkeri" />
 
