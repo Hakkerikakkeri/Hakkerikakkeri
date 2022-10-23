@@ -6,7 +6,7 @@
 
 **Age: 17 years old**
 
-**Live: Finland** ![image](https://user-images.githubusercontent.com/88773115/197399219-28db895a-b377-4668-b5f1-d2ed4614fa3a.png width="200" height="400")
+**Live: Finland** <img src="https://user-images.githubusercontent.com/88773115/197399219-28db895a-b377-4668-b5f1-d2ed4614fa3a.png" width="200" height="400">
 
 
 ## My stats
