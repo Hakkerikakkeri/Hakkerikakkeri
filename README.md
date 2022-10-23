@@ -1,9 +1,6 @@
 <div align="center">
 <img width="160" height="30" src="https://komarev.com/ghpvc/?username=Hakkerikakkeri&style=for-the-badge&color=3079ff" alt="Hakkerikakkeri" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkerikakkeri&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/Hakkerikakkeri/Hakkerikakkeri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkerikakkeri&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
