@@ -1,4 +1,8 @@
 <div align="center">
+
+![Comp 1_40](https://user-images.githubusercontent.com/88773115/197396593-3171a958-78f0-4b59-9923-4d635a4f41b5.png)
+
+
 <a href="https://github.com/Hakkerikakkeri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkerikakkeri&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
