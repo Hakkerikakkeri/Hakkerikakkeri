@@ -1,12 +1,11 @@
 <div align="center">
-  
-<img width="160" height="30" src="https://komarev.com/ghpvc/?username=Hakkerikakkeri&style=for-the-badge&color=3079ff" alt="Hakkerikakkeri" />
-
-  
-<a href="https://github.com/Hakkerikakkeri/Hakkerikakkeri">
+<a href="https://github.com/Hakkerikakkeri"
+<img width="160" height="30" src="https://komarev.com/ghpvc/?username=Hakkerikakkeri&style=for-the-badge&color=3079ff" alt="Hakkerikakkeri"/>
+</a>
+<a href="https://github.com/Hakkerikakkeri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkerikakkeri&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/Hakkerikakkeri/Hakkerikakkeri">
+<a href="https://github.com/Hakkerikakkeri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hakkerikakkeri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
