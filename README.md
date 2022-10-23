@@ -9,5 +9,6 @@
 ## My skills
 
 ![Comp 10](https://user-images.githubusercontent.com/88773115/197390299-2499ca0d-a585-4b6b-b952-a689357c6905.png)
+![Comp 1_10](https://user-images.githubusercontent.com/88773115/197390495-d169e38b-5424-499a-bd57-66042b4487b0.png)
 
 </div>
