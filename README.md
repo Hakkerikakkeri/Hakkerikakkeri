@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkerikakkeri&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakkerikakkeri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakkerikakkeri&show_icons=true&line_height=27&count_private=true&title_color=#ffffff&text_color=#c9cacc&icon_color=#2bbc8a&bg_color=#121212")
 
 ## My skills
 
