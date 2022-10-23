@@ -2,6 +2,10 @@
 
 ![Comp 1_40](https://user-images.githubusercontent.com/88773115/197396593-3171a958-78f0-4b59-9923-4d635a4f41b5.png)
 
+## My info
+
+***17 yo***
+
 ## My stats
 
 <a href="https://github.com/Hakkerikakkeri">
