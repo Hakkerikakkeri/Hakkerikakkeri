@@ -34,7 +34,7 @@
   
 <p>Backend</p>
   
-![Comp 1_10](https://user-images.githubusercontent.com/88773115/225718582-7f2f6cd0-35ab-487c-907f-7894f75fe6ff.png)
+![Comp 1_40](https://user-images.githubusercontent.com/88773115/225721525-705b75b2-9d2a-4c59-880e-85b87a7960b6.png)
 ![Comp 10](https://user-images.githubusercontent.com/88773115/225719053-c943c565-dc3b-47ff-b842-fd0b12a05762.png)
 ![Comp 1_20](https://user-images.githubusercontent.com/88773115/225719876-8eec6225-e11e-47e0-818f-40eed92230ec.png)
 ![Comp 1_30](https://user-images.githubusercontent.com/88773115/225720600-b3c825b9-dfea-40ce-9bb2-7599960c0bde.png)
