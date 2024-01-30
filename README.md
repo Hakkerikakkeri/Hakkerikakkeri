@@ -32,6 +32,8 @@
 ![Comp 1_20](https://user-images.githubusercontent.com/88773115/197390610-a999233b-cbb6-4aa6-aced-934ca69e9081.png)
 ![Comp 1_30](https://user-images.githubusercontent.com/88773115/197390880-d4dfa4bf-9e0f-43aa-a721-74f1f6200a63.png)
 ![kuva](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/c0993d13-da97-449e-880d-bf84da77184d)
+![kuva](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/2cc9ae8e-a41f-40e8-b35a-f4389974839a)
+
 
 
   
