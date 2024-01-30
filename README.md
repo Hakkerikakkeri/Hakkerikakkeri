@@ -27,12 +27,12 @@
 
 <p>Frontend</p>
 
-![Comp 10](https://user-images.githubusercontent.com/88773115/197390299-2499ca0d-a585-4b6b-b952-a689357c6905.png)
-![Comp 1_10](https://user-images.githubusercontent.com/88773115/197390495-d169e38b-5424-499a-bd57-66042b4487b0.png)
-![Comp 1_20](https://user-images.githubusercontent.com/88773115/197390610-a999233b-cbb6-4aa6-aced-934ca69e9081.png)
-![Comp 1_30](https://user-images.githubusercontent.com/88773115/197390880-d4dfa4bf-9e0f-43aa-a721-74f1f6200a63.png)
-![kuva](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/99da641f-5d0a-42fe-946d-d5737638f998)
-![300871193-d3ad1691-6169-4446-90e5-47aab3fb9ab1](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/291101df-5705-437b-a4b6-aa5b6f38ef58)
+<img src="https://user-images.githubusercontent.com/88773115/197390299-2499ca0d-a585-4b6b-b952-a689357c6905.png" alt="Comp 10" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/88773115/197390495-d169e38b-5424-499a-bd57-66042b4487b0.png" alt="Comp 1_10" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/88773115/197390610-a999233b-cbb6-4aa6-aced-934ca69e9081.png" alt="Comp 1_20" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/88773115/197390880-d4dfa4bf-9e0f-43aa-a721-74f1f6200a63.png" alt="Comp 1_30" width="200" height="100">
+<img src="https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/99da641f-5d0a-42fe-946d-d5737638f998" alt="kuva" width="200" height="100">
+<img src="https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/291101df-5705-437b-a4b6-aa5b6f38ef58" alt="300871193-d3ad1691-6169-4446-90e5-47aab3fb9ab1" width="200" height="100">
 
 
 
