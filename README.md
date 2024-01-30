@@ -32,7 +32,8 @@
 ![Comp 1_20](https://user-images.githubusercontent.com/88773115/197390610-a999233b-cbb6-4aa6-aced-934ca69e9081.png)
 ![Comp 1_30](https://user-images.githubusercontent.com/88773115/197390880-d4dfa4bf-9e0f-43aa-a721-74f1f6200a63.png)
 ![kuva](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/99da641f-5d0a-42fe-946d-d5737638f998)
-![kuva](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/d3ad1691-6169-4446-90e5-47aab3fb9ab1)
+![300871193-d3ad1691-6169-4446-90e5-47aab3fb9ab1](https://github.com/Hakkerikakkeri/Hakkerikakkeri/assets/88773115/291101df-5705-437b-a4b6-aa5b6f38ef58)
+
 
 
 
