@@ -11,7 +11,7 @@
 
 **Likes to program👨🏾‍💻**
 
-**Learning more from frontend and backend**
+**Learning more from backend**
 
 
 ## My stats
