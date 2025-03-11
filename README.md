@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Comp 10](https://github.com/user-attachments/assets/6f4e0b37-6b60-4e40-a999-9c723295acfc)
+![Comp 10](https://github.com/user-attachments/assets/0c8fe956-be9b-4a77-bb76-8a5c768454af)
 
 ## My info
 
