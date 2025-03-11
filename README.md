@@ -3,18 +3,6 @@
 ![Comp 10](https://github.com/user-attachments/assets/6f4e0b37-6b60-4e40-a999-9c723295acfc)
 ![Comp 10](https://github.com/user-attachments/assets/0c8fe956-be9b-4a77-bb76-8a5c768454af)
 
-## My info
-
-**Age: 19 years old**
-
-**Live: Finland**
-<img src="https://user-images.githubusercontent.com/88773115/197399219-28db895a-b377-4668-b5f1-d2ed4614fa3a.png" width="18" height="18">
-
-**Likes to program👨🏾‍💻**
-
-**Learning more from backend**
-
-
 ## My stats
 
 <a href="https://github.com/Hakkerikakkeri">
