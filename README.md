@@ -1,6 +1,6 @@
 <div align="center">
 
-![Comp 1_40](https://user-images.githubusercontent.com/88773115/197396593-3171a958-78f0-4b59-9923-4d635a4f41b5.png)
+![Comp 10](https://github.com/user-attachments/assets/6f4e0b37-6b60-4e40-a999-9c723295acfc)
 
 ## My info
 
