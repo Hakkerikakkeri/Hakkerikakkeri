@@ -4,7 +4,7 @@
 
 ## My info
 
-**Age: 18 years old**
+**Age: 19 years old**
 
 **Live: Finland**
 <img src="https://user-images.githubusercontent.com/88773115/197399219-28db895a-b377-4668-b5f1-d2ed4614fa3a.png" width="18" height="18">
